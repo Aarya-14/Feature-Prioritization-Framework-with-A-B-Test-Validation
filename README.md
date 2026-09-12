@@ -1,4 +1,5 @@
 # Feature-Prioritization-Framework-with-A-B-Test-Validation
+![Executive Dashboard Preview](outputs/figures/dashboard_preview.png)
 ## 📋 Project Overview
 
 A comprehensive, data-driven product management framework that demonstrates systematic feature prioritization using the RICE methodology and validates recommendations through statistical A/B testing simulation. Built to showcase real-world PM skills including prioritization, data analysis, statistical reasoning, and stakeholder communication.
